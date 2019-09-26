@@ -9,4 +9,4 @@ Queries the London air quality data feed provided by Kings College London via [L
 * `pip install -r requirements-dev.txt`
 * Install in editable mode -> `pip install -e .`
 * Run tests with `venv/bin/pytest tests/test_london_air_quality.py`
-* Black format with `venv/bin/black london_air_quality/*`
+* Black format with `venv/bin/black london_air_quality/*` and `venv/bin/black tests/test_london_air_quality.py`
