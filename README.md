@@ -1,3 +1,6 @@
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+[![PyPI Version](https://img.shields.io/pypi/v/london-air-quality.svg)](https://pypi.org/project/london-air-quality/)
+
 # London-Air-Quality
 Queries the London air quality data feed provided by Kings College London via [Londonair.org](https://www.londonair.org.uk/LondonAir/Default.aspx). 
 
