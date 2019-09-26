@@ -20,3 +20,13 @@ bin-release/
 .ipynb_checkpoints
 __pycache__/
 venv/
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+*.egg-info
+lib
+lib64
